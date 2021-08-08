@@ -1,7 +1,3 @@
-# Graded Challenge 3
-
-_Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Ensemble._
-
 # Overall Analysis
 
 #### Tentang Data
